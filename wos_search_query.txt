@@ -1,0 +1,17 @@
+Database: Web of Science Core Collection
+
+Indexes:
+SCI-EXPANDED
+SSCI
+ESCI
+
+Search Query:
+TS=("machine learning" OR "artificial intelligence")
+AND TS=("supply chain" OR logistics)
+AND TS=("demand forecasting" OR "demand prediction")
+
+Filters:
+Document Types: Article, Book Chapter
+Language: English
+Timespan: 1997–2025
+
