@@ -17,9 +17,3 @@ prisma_exclusion_table.xlsx
 
 data_preprocessing_notes.txt
   Data cleaning, deduplication, and harmonization procedures
-
-bibliometrix_analysis.R
-  Example script for bibliometric analysis
-
-Note:
-VOSviewer network files (.map and .net) can also be added to reproduce the visual network maps.
